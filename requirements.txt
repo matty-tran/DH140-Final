@@ -1,0 +1,5 @@
+pandas
+seaborn
+wordcloud 
+PIL
+matplotlib.pyplot
