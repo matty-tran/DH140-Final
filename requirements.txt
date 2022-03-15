@@ -1,5 +1,5 @@
 pandas
 seaborn
 wordcloud 
-PIL
+pillow
 matplotlib.pyplot
